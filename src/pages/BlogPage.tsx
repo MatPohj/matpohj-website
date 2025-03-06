@@ -1,4 +1,4 @@
-const Blog = () => {
+const BlogPage = () => {
     return (
       <section className="about-section section">
         <h1>About Me</h1>
@@ -25,4 +25,4 @@ const Blog = () => {
     );
   };
   
-  export default Blog;
+  export default BlogPage;
